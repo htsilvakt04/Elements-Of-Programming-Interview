@@ -5,12 +5,11 @@
 #### Selection:
 ![](https://github.com/htsilvakt04/Elements-Of-Programming-Interview/blob/master/images/Screen%20Shot%202020-12-16%20at%2015.42.50.png)
 
-**Repetition allowed:** `N^r`
+Repetition allowed: `N^r`
 
-**Repetition is not allowed:** `N * N - 1 * N - 2 * ...`
+Repetition is not allowed `N * N - 1 * N - 2 * ...`
 
-
-
+---------------------
 
 #### Cobination: When the order doesn't matter, it is a Combination
 
