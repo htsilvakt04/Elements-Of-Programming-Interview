@@ -6,7 +6,7 @@
 select r from N objects.
 Example: select 3 number froms: {1, 2, 3, 4, 5}
 
-**Repetition allowed: ** N^r.
+**Repetition allowed:** N^r.
 
 5 * 5 * 5 = 125;
 
