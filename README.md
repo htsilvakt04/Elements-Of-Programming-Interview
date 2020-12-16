@@ -3,6 +3,7 @@
 ## Cobination - Permutation - PowerSet of stuff:
 Cobination: *N!*
 > Why: 
+
 Permutation: *N^N*
 > Why:
 
