@@ -14,6 +14,8 @@ where N is the number of things to choose from,
 and we choose r of them,
 repetition is allowed,
 and order matters.
+![Permuation](https://github.com/htsilvakt04/Elements-Of-Programming-Interview/blob/master/images/Screen%20Shot%202020-12-16%20at%2013.32.49.png)
+
 
 >When repetition is **not** allowed:
 After chose 1 elem, then N - 1 left. 
