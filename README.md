@@ -14,6 +14,7 @@ where N is the number of things to choose from,
 and we choose r of them,
 repetition is allowed,
 and order matters.
+
 >When repetition is **not** allowed:
 After chose 1 elem, then N - 1 left. 
 After chose another elem, then N - 2 left;
