@@ -1,9 +1,9 @@
 # Cheat Seat
 
 ## Cobination - Permutation - PowerSet of stuff:
-#### Cobination: 2^N
+#### Cobination: 2^N (When the order doesn't matter, it is a Combination)
 > Why: 
-When the order doesn't matter, it is a Combination.
+
 Example: my Salad contains of Apple, Salad and Orange. It doesn't matter which order your salad is, It's salad.
 
 #### Permutation: N^N (When the order does matter it is a Permutation.)
