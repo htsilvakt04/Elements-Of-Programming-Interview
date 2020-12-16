@@ -3,17 +3,12 @@
 ## Cobination - Permutation - Selection of stuff:
 
 #### Selection:
-select r from N objects.
+![](https://github.com/htsilvakt04/Elements-Of-Programming-Interview/blob/master/images/Screen%20Shot%202020-12-16%20at%2015.42.50.png)
 
->Example: select 3 number froms: {1, 2, 3, 4, 5}
 
 **Repetition allowed:** `N^r`
-
-5 * 5 * 5 = 125;
-
 **Repetition is not allowed:** `N * N - 1 * N - 2 * ...`
 
-5 * 4 * 3 = 60;
 
 
 
