@@ -11,6 +11,7 @@ Example: my Salad contains of Apple, Salad and Orange. It doesn't matter which o
 >When repetition is allowed:
 
 total choices: **N^r**
+
 where N is the number of things to choose from,
 and we choose r of them,
 repetition is allowed,
@@ -20,6 +21,7 @@ and order matters.
 >When repetition is **not** allowed:
 After chose 1 elem, then N - 1 left. 
 After chose another elem, then N - 2 left;
+
 total choices: **N!**
 
 ![Permuation](https://github.com/htsilvakt04/Elements-Of-Programming-Interview/blob/master/images/Screen%20Shot%202020-12-16%20at%2013.32.49.png)
