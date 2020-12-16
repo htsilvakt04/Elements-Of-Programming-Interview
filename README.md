@@ -9,7 +9,7 @@ Example: my Salad contains of Apple, Salad and Orange. It doesn't matter which o
 #### Permutation: N^N (When the order does matter it is a Permutation.)
 ![Alt Text](https://www.mathsisfun.com/combinatorics/images/permutation-lock.jpg)
 >When repetition is allowed:
-N^r
+total choices: **N^r**
 where N is the number of things to choose from,
 and we choose r of them,
 repetition is allowed,
