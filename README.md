@@ -1,10 +1,20 @@
 # Cheat Seat
 
-## Cobination - Permutation - PowerSet of stuff:
-#### Cobination: 2^N (When the order doesn't matter, it is a Combination)
-> Why: 
+## Cobination - Permutation - Selection of stuff:
 
-Example: my Salad contains of Apple, Salad and Orange. It doesn't matter which order your salad is, It's salad.
+#### Selection:
+select r from N objects.
+Example: select 3 number froms: {1, 2, 3, 4, 5}
+**Repetition allowed: ** N^r.
+5 * 5 * 5 = 125;
+
+**Repetition is not allowed: ** N * N - 1 * N - 2 * ...
+5 * 4 * 3 = 60;
+
+
+
+#### Cobination: When the order doesn't matter, it is a Combination
+
 
 #### Permutation: N^N (When the order does matter it is a Permutation.)
 ![Alt Text](https://www.mathsisfun.com/combinatorics/images/permutation-lock.jpg)
