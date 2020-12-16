@@ -15,8 +15,11 @@
 #### Permutation: About arranging things
 Concepts:
 > nPr: `arrange r elems from n`
+Total: `n! / (n - r)!`
 
 > nCr: `select r elems from n`
+Total: n! / (r! (n - r)!)
+
 
 
 
