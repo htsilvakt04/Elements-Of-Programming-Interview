@@ -5,8 +5,8 @@
 #### Selection:
 ![](https://github.com/htsilvakt04/Elements-Of-Programming-Interview/blob/master/images/Screen%20Shot%202020-12-16%20at%2015.42.50.png)
 
-
 **Repetition allowed:** `N^r`
+
 **Repetition is not allowed:** `N * N - 1 * N - 2 * ...`
 
 
