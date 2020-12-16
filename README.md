@@ -5,10 +5,13 @@
 #### Selection:
 select r from N objects.
 Example: select 3 number froms: {1, 2, 3, 4, 5}
+
 **Repetition allowed: ** N^r.
+
 5 * 5 * 5 = 125;
 
 **Repetition is not allowed: ** N * N - 1 * N - 2 * ...
+
 5 * 4 * 3 = 60;
 
 
